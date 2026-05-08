@@ -1,0 +1,180 @@
+Trial,Category,Subgroup,HR,Lower_CI,Upper_CI
+AEGEAN,Overall,Overall,0.68,0.53,0.88
+AEGEAN,Age,<65 yr,0.71,0.47,1.04
+AEGEAN,Age,>=65 yr,0.69,0.48,0.97
+AEGEAN,Sex,Male,0.61,0.44,0.82
+AEGEAN,Sex,Female,0.95,0.58,1.56
+AEGEAN,ECOG_score,0,0.65,0.47,0.89
+AEGEAN,ECOG_score,1,0.78,0.49,1.22
+AEGEAN,Race,Asian,0.6,0.4,0.9
+AEGEAN,Race,Non-Asian,0.76,0.54,1.06
+AEGEAN,Geographic_region,Asia,0.62,0.41,0.93
+AEGEAN,Geographic_region,Europe,0.75,0.49,1.14
+AEGEAN,Geographic_region,North America,0.69,0.27,1.62
+AEGEAN,Geographic_region,South America,0.71,0.33,1.53
+AEGEAN,Smoking_status,Current smoker,0.48,0.28,0.8
+AEGEAN,Smoking_status,Former smoker,0.79,0.57,1.1
+AEGEAN,Smoking_status,Never smoked,0.76,0.35,1.58
+AEGEAN,Histology,Squamous,0.71,0.49,1.03
+AEGEAN,Histology,Nonsquamous,0.69,0.48,0.99
+AEGEAN,Disease_stage,Stage II,0.76,0.43,1.34
+AEGEAN,Disease_stage,IIIA,0.57,0.39,0.83
+AEGEAN,Disease_stage,IIIB,0.83,0.52,1.32
+AEGEAN,Nodal_status,N2 Single-station,0.61,0.39,0.94
+AEGEAN,Nodal_status,N2 Multi-station,0.69,0.33,1.38
+AEGEAN,PD_L1,<1%,0.76,0.49,1.17
+AEGEAN,PD_L1,1-49%,0.7,0.46,1.05
+AEGEAN,PD_L1,>=50%,0.6,0.35,1.01
+AEGEAN,Platinum_therapy,Cisplatin,0.59,0.35,1
+AEGEAN,Platinum_therapy,Carboplatin,0.73,0.54,0.98
+AEGEAN,EGFR_status,Positive,0.86,0.35,2.19
+CheckMate_77T,Overall,Overall,0.59,0.44,0.79
+CheckMate_77T,Age,<65 yr,0.55,0.36,0.85
+CheckMate_77T,Age,>=65 yr,0.61,0.41,0.91
+CheckMate_77T,Sex,Male,0.53,0.37,0.75
+CheckMate_77T,Sex,Female,0.71,0.41,1.2
+CheckMate_77T,Geographic_region,North America,0.59,0.25,1.38
+CheckMate_77T,Geographic_region,Europe,0.61,0.4,0.92
+CheckMate_77T,Geographic_region,Asia,0.47,0.26,0.86
+CheckMate_77T,ECOG_score,0,0.57,0.39,0.83
+CheckMate_77T,ECOG_score,1,0.61,0.39,0.97
+CheckMate_77T,Disease_stage,Stage II,0.81,0.46,1.43
+CheckMate_77T,Disease_stage,Stage III,0.51,0.36,0.72
+CheckMate_77T,Nodal_status,N0,0.8,0.48,1.32
+CheckMate_77T,Nodal_status,N1,0.58,0.29,1.16
+CheckMate_77T,Nodal_status,N2,0.46,0.3,0.7
+CheckMate_77T,Nodal_status,N2 Single-station,0.49,0.29,0.84
+CheckMate_77T,Nodal_status,N2 Multi-station,0.43,0.21,0.88
+CheckMate_77T,Histology,Squamous,0.46,0.3,0.72
+CheckMate_77T,Histology,Nonsquamous,0.72,0.49,1.07
+CheckMate_77T,Smoking_status,Current or former smoker,0.54,0.4,0.74
+CheckMate_77T,Smoking_status,Never smoked,1.32,0.54,3.2
+CheckMate_77T,PD_L1,<1%,0.73,0.47,1.15
+CheckMate_77T,PD_L1,>=1%,0.52,0.35,0.78
+CheckMate_77T,PD_L1,1-49%,0.76,0.46,1.25
+CheckMate_77T,PD_L1,>=50%,0.26,0.12,0.55
+CheckMate_77T,Platinum_therapy,Cisplatin,0.61,0.35,1.08
+CheckMate_77T,Platinum_therapy,Carboplatin,0.53,0.37,0.75
+CheckMate_77T,MPR,yes,0.4,0.16,0.99
+CheckMate_77T,MPR,no,0.85,0.62,1.15
+CheckMate_77T,PCR,yes,0.33,0.08,1.37
+CheckMate_77T,PCR,no,0.79,0.58,1.06
+CheckMate_816,Overall,Overall,0.63,0.45,0.87
+CheckMate_816,Age,<65 yr,0.57,0.35,0.93
+CheckMate_816,Age,>=65 yr,0.7,0.45,1.08
+CheckMate_816,Sex,Male,0.68,0.47,0.98
+CheckMate_816,Sex,Female,0.46,0.22,0.96
+CheckMate_816,Geographic_region,North America,0.78,0.38,1.62
+CheckMate_816,Geographic_region,Europe,0.8,0.36,1.77
+CheckMate_816,Geographic_region,Asia,0.45,0.29,0.71
+CheckMate_816,ECOG_score,0,0.61,0.41,0.91
+CheckMate_816,ECOG_score,1,0.71,0.41,1.21
+CheckMate_816,Disease_stage,IB or II,0.87,0.48,1.56
+CheckMate_816,Disease_stage,IIIA,0.54,0.37,0.8
+CheckMate_816,Histology,Squamous,0.77,0.49,1.22
+CheckMate_816,Histology,Nonsquamous,0.5,0.32,0.79
+CheckMate_816,Smoking_status,Current or former smoker,0.68,0.48,0.96
+CheckMate_816,Smoking_status,Never smoked,0.33,0.13,0.87
+CheckMate_816,PD_L1,<1%,0.85,0.54,1.32
+CheckMate_816,PD_L1,>=1%,0.41,0.24,0.7
+CheckMate_816,PD_L1,1-49%,0.58,0.3,1.12
+CheckMate_816,PD_L1,>=50%,0.24,0.1,0.61
+CheckMate_816,TMB,<12.3,0.86,0.47,1.57
+CheckMate_816,TMB,>=12.3,0.69,0.33,1.46
+CheckMate_816,Platinum_therapy,Cisplatin,0.71,0.49,1.03
+CheckMate_816,PCR,no,0.86,0.62,1.2
+CheckMate_816,Platinum_therapy,Carboplatin,0.31,0.14,0.67
+KEYNOTE_671,Overall,Overall,0.59,0.48,0.72
+KEYNOTE_671,Age,<65 yr,0.51,0.39,0.67
+KEYNOTE_671,Age,>=65 yr,0.7,0.52,0.92
+KEYNOTE_671,Sex,Female,0.52,0.36,0.75
+KEYNOTE_671,Sex,Male,0.62,0.49,0.78
+KEYNOTE_671,Race,White,0.56,0.44,0.72
+KEYNOTE_671,Race,Non-White,0.63,0.45,0.88
+KEYNOTE_671,Geographic_region,East Asia,0.63,0.44,0.91
+KEYNOTE_671,Geographic_region,Non-East Asia,0.57,0.45,0.72
+KEYNOTE_671,Smoking_status,Current smoker,0.53,0.36,0.77
+KEYNOTE_671,Smoking_status,Former smoker,0.59,0.46,0.75
+KEYNOTE_671,Smoking_status,Never smoked,0.77,0.44,1.35
+KEYNOTE_671,Nodal_status,N0,0.58,0.41,0.8
+KEYNOTE_671,Nodal_status,N1,0.56,0.35,0.91
+KEYNOTE_671,Nodal_status,N2,0.63,0.48,0.82
+KEYNOTE_671,Disease_stage,Stage II,0.59,0.4,0.88
+KEYNOTE_671,Disease_stage,Stage III,0.58,0.46,0.72
+KEYNOTE_671,Disease_stage,IIA,0.59,0.22,1.58
+KEYNOTE_671,Disease_stage,IIB,0.59,0.38,0.92
+KEYNOTE_671,Disease_stage,IIIA,0.57,0.44,0.74
+KEYNOTE_671,Disease_stage,IIIB,0.57,0.36,0.9
+KEYNOTE_671,Clinical_disease_and_nodal,III N2,0.63,0.48,0.82
+KEYNOTE_671,Clinical_disease_and_nodal,III non-N2,0.52,0.35,0.76
+KEYNOTE_671,Histology,Nonsquamous,0.66,0.51,0.86
+KEYNOTE_671,Histology,Squamous,0.51,0.38,0.69
+KEYNOTE_671,PD_L1,<1%,0.75,0.56,1.01
+KEYNOTE_671,PD_L1,>=1%,0.51,0.39,0.66
+KEYNOTE_671,PD_L1,1-49%,0.52,0.36,0.73
+KEYNOTE_671,PD_L1,>=50%,0.48,0.33,0.71
+KEYNOTE_671,EGFR_status,Positive,0.32,0.11,0.91
+KEYNOTE_671,EGFR_status,Negative,0.55,0.38,0.81
+KEYNOTE_671,ALK_status,Negative,0.5,0.35,0.73
+KEYNOTE_671,MPR,yes,0.54,0.24,1.22
+KEYNOTE_671,MPR,no,0.73,0.58,0.92
+KEYNOTE_671,PCR,yes,0.33,0.09,1.22
+KEYNOTE_671,PCR,no,0.69,0.55,0.85
+NADIM_II,Overall,Overall,0.47,0.25,0.88
+NADIM_II,Age,<65 yr,0.51,0.22,1.21
+NADIM_II,Age,>=65 yr,0.42,0.17,1.06
+NADIM_II,BMI,<=25,0.7,0.21,2.3
+NADIM_II,BMI,>25,0.39,0.19,0.8
+NADIM_II,Smoking_status,Never or former smoker,0.2,0.08,0.53
+NADIM_II,Smoking_status,Current smoker,0.57,0.25,1.32
+NADIM_II,Surgery,No,0.31,0.06,1.47
+NADIM_II,Surgery,Yes,0.66,0.31,1.42
+NADIM_II,Histology,Nonsquamous,0.35,0.15,0.81
+NADIM_II,Histology,Squamous,0.63,0.24,1.63
+NADIM_II,Nodal_status,N0,0.48,0.09,2.49
+NADIM_II,Nodal_status,N1,0.07,0.01,0.69
+NADIM_II,Nodal_status,N2 Multi-station,0.39,0.16,0.94
+NADIM_II,Nodal_status,N2 Single-station,2.43,0.3,19.46
+NADIM_II,Clinical_T,T1-3,0.66,0.31,1.41
+NADIM_II,Clinical_T,T4,0.13,0.03,0.63
+NADIM_II,PD_L1,>=1%,0.22,0.08,0.58
+NADIM_II,PD_L1,<1%,0.85,0.3,2.42
+NADIM_II,PCR,yes,1.01,0,100
+NADIM_II,PCR,no,0.71,0.38,1.32
+Neotorch,Overall,Overall,0.4,0.28,0.57
+Neotorch,Age,<65 yr,0.41,0.27,0.62
+Neotorch,Age,>=65 yr,0.34,0.18,0.63
+Neotorch,Sex,Male,0.38,0.26,0.54
+Neotorch,Sex,Female,0.54,0.15,1.8
+Neotorch,Smoking_status,Current or former smoker,0.37,0.25,0.54
+Neotorch,Smoking_status,Never smoked,0.52,0.19,1.36
+Neotorch,ECOG_score,0,0.44,0.25,0.74
+Neotorch,ECOG_score,1,0.36,0.23,0.57
+Neotorch,Histology,Nonsquamous,0.54,0.26,1.08
+Neotorch,Histology,Squamous,0.35,0.23,0.52
+Neotorch,PD_L1,Not evaluable,0.44,0.11,1.45
+Neotorch,PD_L1,<1%,0.65,0.33,1.23
+Neotorch,PD_L1,1-49%,0.31,0.17,0.54
+Neotorch,PD_L1,>=50%,0.31,0.15,0.6
+Neotorch,Disease_stage,IIIA,0.44,0.29,0.66
+Neotorch,Disease_stage,IIIB,0.3,0.15,0.56
+Neotorch,MPR,yes,0.61,0.17,2.17
+Neotorch,MPR,no,0.51,0.3,0.73
+RATIONALE_315,Overall,Overall,0.57,0.41,0.8
+RATIONALE_315,Age,<65 yr,0.61,0.4,0.94
+RATIONALE_315,Age,>=65 yr,0.51,0.3,0.89
+RATIONALE_315,Sex,Male,0.57,0.4,0.8
+RATIONALE_315,Sex,Female,0.68,0.19,2.4
+RATIONALE_315,ECOG_score,0,0.57,0.37,0.87
+RATIONALE_315,ECOG_score,1,0.58,0.33,1
+RATIONALE_315,Disease_stage,Stage II,0.47,0.26,0.87
+RATIONALE_315,Disease_stage,IIIA,0.62,0.42,0.94
+RATIONALE_315,Histology,Squamous,0.56,0.38,0.83
+RATIONALE_315,Histology,Nonsquamous,0.64,0.32,1.26
+RATIONALE_315,PD_L1,<1%,0.8,0.47,1.38
+RATIONALE_315,PD_L1,>=1%,0.5,0.32,0.78
+RATIONALE_315,PD_L1,1-49%,0.34,0.17,0.66
+RATIONALE_315,PD_L1,>=50%,0.71,0.38,1.34
+RATIONALE_315,Smoking_status,Current smoker,0.61,0.28,1.34
+RATIONALE_315,Smoking_status,Former smoker,0.54,0.36,0.81
+RATIONALE_315,Smoking_status,Never smoked,0.6,0.24,1.51
